@@ -1,0 +1,111 @@
+filename,phrase
+0,Everyone loves pi.
+1,But one of my favorite pi facts is--
+2,and I think it's fun.
+3,You only need 39 digits of pi to be able to measure the
+4,circumference of the observable universe within the
+5,width of one hydrogen atom.
+6,And that's all you need.
+7,Shall we write out the 39 digits?
+8,So the 39 digits of pi.
+9,It's 3 point--
+10,"now, 3 counts as one of the digits."
+11,So it's now 38 decimal places.
+12,Let's do the 38 decimal places--
+13,1 4 1 6 5 9 7 9 3 2 7 4 2 0.
+14,"-He didn't memorize that, everyone."
+15,There you go.
+16,"Show them what you did, just in case."
+17,"JAMES GRIME: Wolfram Alpha app, never leave"
+18,home without it.
+19,"-You're not a pi memorizer, James."
+20,"JAMES GRIME: No, I'm not."
+21,"And that's another thing altogether, people that"
+22,memorize this pi figure to a massive amount of digits.
+23,"But people who calculate it using computers, have"
+24,"calculated it to, currently, 10 trillion digits of pi."
+25,-Go on then.
+26,Let's do it.
+27,JAMES GRIME: OK.
+28,So that would be all you need.
+29,And that's overkill as it is.
+30,Because that's all you need to measure the circumference of
+31,the observable universe.
+32,So the observable universe is the distance that light has
+33,traveled since the big bang.
+34,"And if you say travelled in a big sphere, in a big bubble,"
+35,"then if you measured the distance around it, we'd have"
+36,the circumference of the universe.
+37,And we would need pi to work out that circumference.
+38,"And we could be as accurate as a hydrogen atom, if we used"
+39,just 39 digits of pi.
+40,"We don't need to use the whole thing, of course, which goes"
+41,on forever.
+42,"So in fact, and in practical day-to-day use in engineering"
+43,"and real life, you would only need a handful of digits of pi"
+44,to have an accuracy that would be suitable for anything that
+45,you need to do.
+46,So Wolfram Alpha told me that the diameter of the universe
+47,was 8.8 times 10 to the 26 meters.
+48,So that's the diameter of the observable universe.
+49,"If you want to work out the circumference, then"
+50,we times it by pi.
+51,So the circumference would be pi times the diameter.
+52,What's the difference when I take away my truncated pi?
+53,"What I mean is, what if I took away my pi with 39 digits--"
+54,I've called it pi 39--
+55,and did the same thing times my d?
+56,"So that's the real circumference of the universe,"
+57,take away my approximation.
+58,What's the difference?
+59,"If I do that, what I got was actually around about 2.5"
+60,times 10 to the minus 12 meters.
+61,So that's how accurate.
+62,That's the difference between my approximation
+63,and the real value.
+64,That's how accurate it is.
+65,And a hydrogen atom that Wolfram Alpha told me had a
+66,diameter of about 2.5 times 10 to minus 11 meters.
+67,"So in fact, this is more accurate."
+68,This is more accurate than a hydrogen atom.
+69,So why do we calculate pi to 10 trillion digits?
+70,"These days, it's a way to test our computers, our"
+71,supercomputers and our algorithms.
+72,It's a way to test them to see how good they are.
+73,That's why computer scientists are interested in
+74,this sort of thing.
+75,Mathematicians have tried to do this for thousands of years
+76,out of curiosity.
+77,So it started with Archimedes.
+78,He tried to get an accurate idea of pi about 250 BC.
+79,He didn't have decimals in those days.
+80,He had to use fractions.
+81,But he tried to work it out.
+82,"Then in the 17th century, there was a Dutch"
+83,mathematician called-- now I'll probably Anglicize his
+84,Dutch name.
+85,And I apologize.
+86,He was called Ludolph van Ceulen.
+87,And his life's work was working out the digits of pi.
+88,"And by the end of his life, he had worked out"
+89,35 digits of pi.
+90,"And they're on his tombstone, which is kind of cool."
+91,It's kind of neat.
+92,We skip on to the 19th century.
+93,There was a guy who had about 707 digits of pi.
+94,This was the authoritative example of pi for over 100
+95,"years, until 1945."
+96,And they found a mistake.
+97,"I know, shock."
+98,They found a mistake.
+99,And the last 180 digits were wrong.
+100,"Because somewhere along in his calculations, somewhere around"
+101,"the 500th decimal point, he had made a mistake."
+102,"And from that point on, everything else was wrong."
+103,What a disaster.
+104,"Fortunately, we were able to use computers by this point."
+105,"So in 1949, ENIAC, the American computer, was able to"
+106,calculate pi to 2000 digits.
+107,"So suddenly, it just exploded after that."
+108,"Once we've got computers, it just exploded."
+109,We had more and more digits of pi.
